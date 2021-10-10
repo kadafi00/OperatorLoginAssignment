@@ -1,0 +1,18 @@
+h1 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px #000000;
+  text-align: center;
+}
+
+#countDownTimer {
+  font-size: 25px;
+}
+
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(110, 202, 255),
+    rgb(195, 226, 255)
+  );
+  color: rgb(44, 0, 95);
+}
